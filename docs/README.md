@@ -22,7 +22,7 @@ This was heavily inspired by [free-for.dev](http://free-for.dev) made by [@ripie
 
 ### Contribute
 
-You can make a contribution by submitting a pull request on Github or sending a message with your tool suggestion and a line about what it does to [@roryburns](http://www.twitter.com/roryburns/) on Twitter [or email me here](https://contact.do/z8aK).
+You can make a contribution by [submitting a pull request on Github](https://github.com/Rdwburns/free-for-marketing) or sending a message with your tool suggestion and a line about what it does to [@roryburns](http://www.twitter.com/roryburns/) on Twitter [or email me here](https://contact.do/z8aK).
 
 ## SEO (Search Engine Optimisation)
 
