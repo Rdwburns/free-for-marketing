@@ -2,6 +2,8 @@
 
 There are an awful lot of marketing tools out there these days to help make day-to-day tasks easier. If you're a freelancer, starting up or just on a tight budget, it can often be hard to figure out what's out there and whether it's *really* free to use. 
 
+This list is designed to help you find what's out there. It's ever-growing and by no means complete, but hopefully you get something from it. If I've missed something, please contribute!
+
 ## Notes
 
 - Free trials are acceptable if they are limited by usage or features but can't be a trial. Time-limited products must allow use for at least one year.
@@ -11,13 +13,16 @@ There are an awful lot of marketing tools out there these days to help make day-
 - If any of these links are not free, or I haven't provided enough information, please let me know (see *Contribute* below)
 - If you like this or find it useful, you can help by making a contribution or [buying me a coffee.](http://ko-fi.com/rdwburns)
 
+### To Do
+I want to add sections for paid search and social, I just haven't got around to collating the links yet. This is coming.
+
 ### Acknowledgments
 
 This was heavily inspired by [free-for.dev](http://free-for.dev) made by [@ripienaar](http://www.twitter.com/ripienaar). 
 
 ### Contribute
 
-You can make a contribution by submitting a pull request on Github or sending a message with your tool suggestion and a line about what it does to [@](http://www.twitter.com/rdwburns/)[roryburns](http://www.twitter.com/roryburns/) on Twitter.
+You can make a contribution by submitting a pull request on Github or sending a message with your tool suggestion and a line about what it does to [@roryburns](http://www.twitter.com/roryburns/) on Twitter [or email me here](https://contact.do/z8aK).
 
 ## SEO (Search Engine Optimisation)
 
