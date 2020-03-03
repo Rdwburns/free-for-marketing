@@ -136,7 +136,7 @@ You can make a contribution by [submitting a pull request on Github](https://git
 
 - [Flourish](https://flourish.studio/) - Free to use with a public account.
 - [Juxtapose](https://juxtapose.knightlab.com/) - Create image comparison sliders.
-- [Mapbox](https://www.mapbox.com/) - Create custom maps. Free for up to 25,000 moblile users or 50,000 web loads.
+- [Mapbox](https://www.mapbox.com/) - Create custom maps. Free for up to 25,000 mobile users or 50,000 web loads.
 - [Datawrapper](https://www.datawrapper.de/) - Create charts, maps and tables. Free with attribution watermark.
 
 ## A/B Testing
@@ -147,8 +147,8 @@ You can make a contribution by [submitting a pull request on Github](https://git
 
 - [Mailchimp](https://mailchimp.com/) - Up to 2,000 subscribers and 12,000 emails per month for free
 - [SendInBlue](https://www.sendinblue.com/) - Up to 300 emails per day for free.
-- [Buttondown](https://buttondown.email/) - Up to 1000 subscribers for free.
-- [Mailjet](https://www.mailjet.com/) - Up to 6000 emails per month for free.
+- [Buttondown](https://buttondown.email/) - Up to 1,000 subscribers for free.
+- [Mailjet](https://www.mailjet.com/) - Up to 6,000 emails per month for free.
 
 ## Push Notifications
 
@@ -162,7 +162,8 @@ We don't have any free SMS marketing tools yet. Perhaps you'd like to contribute
 ## Live Chat and Chatbots
 
 - [Botstar](https://botstar.com/) - Create chatbots with a visual UI, can utilise _node.js_ for complex bots. Limited to 50 sessions per month.
-- [Mobilemonkey](https://mobilemonkey.com/prices) - Create chatbots with a visual editor. Limited to 1000 sends per month.
+- [Mobilemonkey](https://mobilemonkey.com/prices) - Create chatbots with a visual editor. Limited to 1,000 sends per month.
+- [Sendbird](https://sendbird.com/) - Free tier includes 1,000 MAUs.
 
 ## Automation and Webhooks
 
