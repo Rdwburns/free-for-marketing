@@ -48,7 +48,7 @@ You can make a contribution by [submitting a pull request on Github](https://git
 
 ### Backlinks
 
-- [Ahrefs Backlink Checker](https://ahrefs.com/site-explorer)
+- [Ahrefs Backlink Checker](https://ahrefs.com/backlink-checker)
 - [Link Miner](https://chrome.google.com/webstore/detail/linkminer/ogdhdnpiclkaeicicamopfohidjokoom?hl=en) - Chrome Extension providing link metrics for broken links on page.
 - [Link Explorer](https://moz.com/link-explorer) - 10 link queries and 50 rows of data per query every month.
 
