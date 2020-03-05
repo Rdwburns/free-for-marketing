@@ -39,12 +39,15 @@ You can make a contribution by [submitting a pull request on Github](https://git
 - [Ubersuggest](https://neilpatel.com/ubersuggest/) - Requires login to access search volume beyond the top ten results.
 - [CanIRank](https://www.canirank.com/)
 - [Keywordtool.io](https://keywordtool.io/) - Provides keyword suggestions but no search volume information in the free tier.
+- [Keyword Surfer](https://chrome.google.com/webstore/detail/keyword-surfer/bafijghppfhdpldihckdcadbcobikaca?hl=en) - Provides keyword information in the Google SERP
+- [SEOQuake](https://www.seoquake.com/index.html) - Provides keyword information in the Google SERP
 
 ### Search Analytics
 
 - [Google Search Console](https://search.google.com/search-console)
 - [Bing Webmaster Tools](https://www.bing.com/webmaster/home/mysites)
 - [Yandex Webmaster](https://webmaster.yandex.com/welcome/)
+- [Sistrix Visibility Index](https://app.sistrix.com/en/visibility-index/) - A tool for benchmarking site visibility against competition, up to 25 free queries per day.
 
 ### Backlinks
 
@@ -68,6 +71,10 @@ You can make a contribution by [submitting a pull request on Github](https://git
 
 - [GTMetrix](https://gtmetrix.com/)
 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) - Chrome Extension, also available in Chrome Dev Tools.
+- [Sistrix Page Speed](https://app.sistrix.com/en/check-page-speed) - Benchmarks for domain page speed. Free for up to 25 queries per day.
+
+### Image Compression and Optimisation
+- [Irfanview](https://www.irfanview.com/) - Image optimsation and compression software for Windows. Free for non-commercial use.
 
 ### Wordpress Specific
 
@@ -104,6 +111,7 @@ You can make a contribution by [submitting a pull request on Github](https://git
 - [Algooroo](https://algoroo.com/)
 - [Rank Risk Index](https://www.rankranger.com/rank-risk-index)
 - [Ayima Pulse](https://www.ayima.com/pulse/)
+- [Sistrix Update Tracker](https://app.sistrix.com/en/google-updates/) - See the impact of Google Updates on your site's visibility
 
 ## Content Marketing and Digital PR
 
@@ -177,3 +185,4 @@ We don't have any free SMS marketing tools yet. Perhaps you'd like to contribute
 
 - [@roryburns](http://www.twitter.com/roryburns/)
 - [@kalmgirl](http://www.twitter.com/kalmgirl/)
+- [@AniAreYouOkay](https://twitter.com/AniAreYouOkay/)
