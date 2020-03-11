@@ -40,6 +40,7 @@ You can make a contribution by [submitting a pull request on Github](https://git
 - [Keywordtool.io](https://keywordtool.io/) - Provides keyword suggestions but no search volume information in the free tier.
 - [Keyword Surfer](https://chrome.google.com/webstore/detail/keyword-surfer/bafijghppfhdpldihckdcadbcobikaca?hl=en) - Provides keyword information in the Google SERP
 - [SEOQuake](https://www.seoquake.com/index.html) - Provides keyword information in the Google SERP
+- [Topics by SEOMonitor](https://topics.seomonitor.com/) - Provides detailed volume and competitor information for keywords or URLs.
 
 ### Search Analytics
 - [Google Search Console](https://search.google.com/search-console)
@@ -163,6 +164,7 @@ You can make a contribution by [submitting a pull request on Github](https://git
 - [Hootsuite](https://hootsuite.com/) - Free for 3 social accounts, 30 scheduled posts and 1 user.
 - [Storychief](https://storychief.io/) - Free for 15 social posts and 3 published stories.
 - [SocialOomph](https://www.socialoomph.com/) - Free for one social profile, maximum three posts per hour.
+- [Uniclix](https://uniclixapp.com/) - Free for 2 social accounts, 10 posts and 1 user.
 
 ### Instagram Specific
 - [Combin](https://www.combin.com/) - Instagram Management Tool, Free for up to 1 account and 100 daily actions with searching limits.
